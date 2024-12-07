@@ -1,5 +1,5 @@
 # PC_5
-Link: https://github.com/Controles-ICDERebatta/PC_5/blob/main/PC%20_%205FINAL.html
+Link: https://github.com/Controles-ICDERebatta/PC_5/raw/refs/heads/main/PC%20_%205FINAL.html
 
 En el primer ejercicio, se usó la función "clip" para formar los 2 mapas solicitados.
 
